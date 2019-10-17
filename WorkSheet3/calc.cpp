@@ -1,5 +1,6 @@
 #include <iostream>
 #include <sstream>
+#include "adder.h"
 
 int main( int argc, char const *argv[] ) {
   int a, b, c;
